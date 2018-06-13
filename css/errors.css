@@ -1,0 +1,11 @@
+.validator_error {
+    text-align: center;
+    color: #f32222;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+}
+.global_errors {
+    background: #efa666;
+    padding: 20px;
+}
